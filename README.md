@@ -1,2 +1,1 @@
-# Car Price Principal Component Analysis for Dimensionality Reduction using R
- Dimensionality Reduction and Exploration of the features concerned with Cars.
+#This US Cars Dataset data is from the Kaggle Repository and was scraped from AUCTION EXPORT.com. The dataset includes information about 28 brands of clean and used vehicles for sale in US.
