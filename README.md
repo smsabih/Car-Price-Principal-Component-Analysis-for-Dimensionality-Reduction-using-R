@@ -1,1 +1,5 @@
 #This US Cars Dataset data is from the Kaggle Repository and was scraped from AUCTION EXPORT.com. The dataset includes information about 28 brands of clean and used vehicles for sale in US.
+
+For this repo, the focus will be on the target variable as brand and the predictor variables will be mileage, year, and the price of the vehicle. The analysis will be based on predicting car brands based on a vehicle’s year, price, and mileage. These make the most sense as the assumption is made that these are the attributes that anyone buying a car looks at when putting a price stamp according to the brand. For example, German vehicles are usually in the higher price bracket compared to American vehicles.
+
+Since dimension reduction uses continuous variables, lets organize the dataframe which makes more sense for the purpose of our problem. The organization will be implemented using the predictor variables listed above and dummy coding for categorical predictor variables. We can then perform analysis based on a new dataframe. 
